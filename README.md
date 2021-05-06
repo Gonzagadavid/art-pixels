@@ -1,4 +1,4 @@
-<div ><h1 align:"center" size="70px" > Art Pixels :art: :space_invader: </h1></div>
+<h1 align="center" size="70px"> Art Pixels :art: :space_invader: </h1>
 
 ## Projeto de avaliação proposto durante o curso da trybe, após ser abordado conteúdos JavaScript sobre manipulação e criação de elementos do DOM. 
 <br>
