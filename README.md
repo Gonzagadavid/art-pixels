@@ -1,1 +1,1 @@
-# Art Pixels  :space_invader: :art:
+# Art Pixels :art: :space_invader:
