@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  background-image: url('./images/sky.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#title {
+  text-align: center;
+  font-size: 120px;
+  margin: 10px;
+  color: rgb(130, 183, 221);
+  font-family: pixel-li, sans-serif;
+}
+
+#color-palette {
+  width: 20%;
+  padding: 10px 20px;
+  margin: auto;
+  background-color: rgba(100, 110, 221, 0.5);
+  border-radius: 10px;
+}
+
+#pixel-board {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+#controls {
+  width: 25%;
+  height: 35px;
+  margin: 10px auto;
+  padding: 20px;
+  background-color: rgba(100, 100, 241, 0.5);
+  border-radius: 10px;
+}
+
+#clear-board {
+  margin-right: 20px;
+}
+
+#board-size {
+  background-color: rgba(100, 100, 241, 0.5);
+  border: none;
+  padding: 10px;
+  width: 70px;
+  color: white;
+  font-size: 30px;
+  margin-left: 40px;
+  font-family: pixel-li, sans-serif;
+}
+
+#board-size:focus {
+  border: none;
+  outline: none;
+}
+
+.color {
+  display: inline-block;
+  border: 1px solid black;
+  width: 40px;
+  height: 40px;
+  margin-left: 20px;
+}
+
+.color:hover {
+  cursor: pointer;
+}
+
+.pixel-line {
+  width: 210px;
+  height: 40px;
+}
+
+.pixel {
+  display: inline-block;
+  border: 1px solid black;
+  width: 40px;
+  height: 40px;
+}
+
+.pixel:hover {
+  cursor: pointer;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 30px;
+  margin-left: 15px;
+  font-family: pixel-li, sans-serif;
+}
+
+.btn:hover {
+  cursor: pointer;
+  color: rgb(19, 19, 110);
+}
+
+@font-face {
+  font-family: pixel-li;
+  src: url('./font/PIXEL-LI.TTF');
+}
