@@ -1,6 +1,10 @@
 # Art Pixels :art: :space_invader:
 
-## Projeto de avaliação proposto durante o curso da trybe, após ser abordado conteúdos JavaScript sobre manipulação e criação de elementos do DOM. Esse projeto foi submetido a testes  de 12 requisitos, buscando sempre fazer a criação dos elementos HTML através do JavaScript:
+## Projeto de avaliação proposto durante o curso da trybe, após ser abordado conteúdos JavaScript sobre manipulação e criação de elementos do DOM. 
+<br>
+<img src="https://github.com/Gonzagadavid/art-pixels/blob/master/images/imagem-projeto.png" alt="imagem final do projeto">
+<br>
+## Esse projeto foi submetido a testes  de 12 requisitos, buscando sempre fazer a criação dos elementos HTML através do JavaScript:
 
 ### 1 - Adicione à página o título "Paleta de Cores".
 
@@ -192,6 +196,5 @@
 
 - Verifica se a cor preta ainda está presente e é a primeira na sua paleta de cores
 
-## Após atingir 100% dos requisitos foi feita a estilização utilizando CSS, resultado final:
-<br>
-<img src="https://github.com/Gonzagadavid/art-pixels/blob/master/images/imagem-projeto.png" alt="imagem final do projeto">
+## Após atingir 100% dos requisitos foi feita a estilização utilizando CSS.
+
