@@ -4,6 +4,7 @@
 <br>
 <img src="https://github.com/Gonzagadavid/art-pixels/blob/master/images/imagem-projeto.png" alt="imagem final do projeto">
 <br>
+
 ## Esse projeto foi submetido a testes  de 12 requisitos, buscando sempre fazer a criação dos elementos HTML através do JavaScript:
 
 ### 1 - Adicione à página o título "Paleta de Cores".
